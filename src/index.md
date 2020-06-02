@@ -12,8 +12,8 @@ name: Mingyao
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: lightspace1.github.io/resume/
-    url: https://lightspace1.github.io/resume/
+    text: github.com/lightspace1
+    url: https://github.com/lightspace1
   # Email
   - icon: fas fa-envelope
     text: mingyao.pang@gmail.com
