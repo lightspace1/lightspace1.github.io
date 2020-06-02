@@ -38,7 +38,7 @@ contact:
 
 {% raw %}
 <grid>
-<avatar><img src="/images/images.jpeg"></avatar>
+<avatar><img src="https://lightspace1.github.io/resume/images/images.jpeg"></avatar>
 <h1>Mingyao Pang</h1>
 <!-- <center>
 <a href='/'>English</a>  -->
