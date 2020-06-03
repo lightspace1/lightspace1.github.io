@@ -181,6 +181,7 @@ Built a system that automatically hides personal information in a patient's medi
 -	Constructed the corresponding regular expression which performs word analysis.
 -	Based on processed data, the CRF model was trained to recognize key information such as location, age, name, and date. The accuracy rate was 92.2%, 72.7%, 96.7%, and 92% and the recall rate was 56.9%, 59%, 71.4% and 66%, respectively. 
 -	Designed new relationship features and improved the date model by analyzing text features and relationships. The recall rate of the date model was increased from 66% to 90.4% and the accuracy rate was increased from 92% to 98.3%.
+**GitHub Link:** https://github.com/lightspace1/medical_record_de_identification
 
 ### Handwritten English Word Recognition Program
 #### May 2019 - June 2019: Developed for the course project
