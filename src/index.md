@@ -50,20 +50,20 @@ contact:
 
 ## <i class="fas fa-flag"></i> Summary
 - Familiar with multiple programming languages such as **Java**, **Python**, **Scala**, etc.
-- Expertise in **Web development** and **Machine learning**, **Deep learning**, **BigData application** development.
-- Experience in web development technologies like Servlets, JSP, HTML, JSON, **JavaScript**, CSS, XML, **AJAX**, **JQuery**, etc.
-- Expertise in front-end development frameworks such as **AngularJS**, **Vue.js**.
-- Experience in frameworks like **Spring Core, Hibernate, Spring Boot, Spring Cloud, Spring Data**.
+- Familiar with  **Web development** and **Machine learning**, **Deep learning**, **BigData application** development.
+- Acquainted with web development technologies like Servlets, JSP, HTML, JSON, **JavaScript**, CSS, XML, **AJAX**, **JQuery**, etc.
+- Acquainted with front-end development frameworks such as **AngularJS**, **Vue.js**.
+- Familiar with frameworks like **Spring Core, Hibernate, Spring Boot, Spring Cloud, Spring Data**.
 - Broad Knowledge and hands-on experience in **REST web servers** using Spring MVC.
-- Experience in SQL/NoSQL databases like **Redis, MongoDB, MySQL**, etc.
-- Experience in **Microservice** development.
+- At home with SQL/NoSQL databases like **Redis, MongoDB, MySQL**, etc.
+- Acquainted with **Microservice** development.
 - Familiar with different CI/DI tools, such as **Maven, Jenkins, Docker**. 
 - Familiar with multiple Test Frameworks like **Junit, Selenium, Mockito**.
-- Experience in the **data cleansing**.
+- Acquainted with the **data cleansing**.
 - Familiar with multiple Machine learning algorithms and frameworks, such as **Tensorflow, Sklearn, NLTK toolkit**.
-- Expertise in data processing tools like **Numpy, Pandas**.
+- Acquainted with data processing tools like **Numpy, Pandas**.
 - Knowledge in developing Big Data application using **Spark, Hadoop, Spark Graph, Spark Mlib**.
-- Experience in building the streaming application using **Spark Streaming, Kafka**.
+- Knowledge in building the streaming application using **Spark Streaming, Kafka**.
 
 <!-- Please directly download the source code of this site and refer to the source code for rewriting.
 
@@ -145,7 +145,7 @@ Learn Lifelong is Online Learning Microservice web system based on **Spring Fram
 -	Designed **MySQL** database table and **MongoDB** schemas for each function and connected them by using **MyBatis, Spring Data, Hibernate.**
 -	Implemented **Ouath2.0 Single sign-on** feature. **(Spring Security, Zuul and JWT)**
 -	Documented the API **(Swagger)** and tested the API and microservice. **(Junit, Postman)**
-GitHub Link: https://github.com/lightspace1/learn_lifelong
+**GitHub Link:** https://github.com/lightspace1/learn_lifelong
 
 ### HappyShop
 #### May 2019 - Dec. 2019 : Developed for personal interest
