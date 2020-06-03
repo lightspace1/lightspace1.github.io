@@ -74,10 +74,12 @@ contact:
 ## <i class="fas fa-user-graduate"></i> Education
 {% raw %}
 <div><b><span style="float:left;">Master of Science in Computer Science</span></b><span style ="float:right">May 2020</span></div><br/>
-<div><span style="float:left;">The University of Texas at Dallas, Richardson, Texas</span><span style ="float:right">GPA: 3.93</span></div><br/>
-<br>
-<div><b><span style="float:left;">Bachelor of Computer Engineering in Internet of Things</span></b><span style ="float:right">July 2017</span></div><br/>
-<div><span style="float:left;">Beijing University of Posts and Telecommunications, Beijing, China</span><span style ="float:right">GPA: 3.2</span></div><br/>
+
+<div style = "clear:both"><span style="float:left;">The University of Texas at Dallas, Richardson, Texas</span><span style ="float:right">GPA: 3.93</span></div><br/>
+<br/>
+
+<div style = "clear:both"><b><span style="float:left;">Bachelor of Computer Engineering in Internet of Things</span></b><span style ="float:right">July 2017</span></div><br/>
+<div style = "clear:both"><span style="float:left;">Beijing University of Posts and Telecommunications, Beijing, China</span><span style ="float:right">GPA: 3.2</span></div><br/>
 <br>
 {% endraw %}
 
