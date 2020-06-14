@@ -188,11 +188,11 @@ Built a system that automatically hides personal information in a patient's medi
 
 ### Handwritten English Word Recognition Program
 #### May 2019 - June 2019: Developed for the course project
-Uses machine learning algorithms to convert handwritten word images into text format with an accuracy rating of 99.07%.
--	Delivered image processing logic that cuts (OpenCV) word images into individual English letters and labels them and converts them into uniform pixel data, and then integrates the pixel data as features into the model.
--	Constructed an image classifier (Bayesian classifier) to obtain the recognized letter result based on the pixel data. Classifier has a recognition accuracy rate of 62.68%.
--	Constructed a recognition result correction model (Hidden Markov Model) decoded with the Viterbi algorithm and obtained the recognized English words. This increased the accuracy rating to 99.07%. 
--	Built a RESTful web service (Flask), encoded and decoded images using Base64 encoding, and encapsulated word recognition logic into REST APIs for easy integration with other systems.
+Developed a model to convert handwritten word images into text format with a correct rate of 99.07%.
+-	Delivered image processing logic that cuts **(OpenCV)** word images into individual English letters and labels them and converts them into uniform pixel data, and then integrates the pixel data as features into the model.
+-	Constructed an image classifier **(Bayesian classifier)** to obtain the recognized letter result based on the pixel data. Classifier has a recognition accuracy rate of 62.68%.
+-	Constructed a recognition result correction model **(Hidden Markov Model)** decoded with the Viterbi algorithm and obtained the recognized English words. This increased the accuracy rating to 99.07%. 
+
 
 
 
