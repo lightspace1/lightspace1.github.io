@@ -170,11 +170,12 @@ Developed a high cohesion, low coupling **PHP** bookstore website based on **Lar
 
 ### Product Recommendation System Based on User
 #### Sept. 2019 - May 2020 : Developed for personal interest
--	Developing a recommendation system based on the Lambda architecture (Hadoop, Kafka, Spark, Spark Streaming, Redis). The main purpose of the project is collecting user data and product data on an e-commerce platform to achieve personalized recommendations for users. 
--	Set up an offline system which collects (Flume, Sqoop), calculates (spark), and stores (Hbase) user data and product data to construct user portraits and product images.
--	Based on offline data, developed a matching algorithm (ALS collaborative filtering and Spark) and a sorting algorithm (Wide&deep, TensorFlow) which predicts click-through rate.
--	Building a real-time system which collects (Flume) and stores (Kafka) user behavior logs in real time. System updates the product matching sets (Spark Streaming) while updating hot items and new products matching sets (Radis) in real time. 
--	Developing recommendation center logic to generate recommendations based on matching results and sorting results. This logic performs online predictions (TensorFlow) and implements cache logic (Radis) for recommendation results to reduce database load.
+Developing a recommendation system **(Hadoop, Kafka, Spark, Spark Streaming, Redis)**. The main purpose of the project is collecting user data and product data on an e-commerce platform to achieve personalized recommendations for users. 
+-	Collects **(Flume, Sqoop)**, calculates **(spark)**, and stores **(Hbase)** user data and product data to construct user portraits and product images.
+-	Developed a matching algorithm **(ALS collaborative filtering and Spark)** which predicts click-through rate.
+-	Building a real-time system which collects **(Flume)** and stores **(Kafka)** user behavior logs in real time. System updates the product matching sets **(Spark Streaming)** while updating hot items and new products matching sets **(Radis)** in real time. 
+-	Developing recommendation center logic to generate recommendations based on matching results and sorting results. 
+
 
 ### Automatic De-identification of Medical Records System
 #### Nov. 2019 - Dec. 2019: Developed for the course project
