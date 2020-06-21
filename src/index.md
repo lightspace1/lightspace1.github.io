@@ -56,7 +56,6 @@ contact:
 - Familiar with frameworks like **Spring Core, Hibernate, Spring Boot, Spring Cloud, Spring Data**.
 - Broad Knowledge and hands-on experience in **REST web servers** using Spring MVC.
 - At home with SQL/NoSQL databases like **Redis, MongoDB, MySQL**, etc.
-- Acquainted with **Microservice** development.
 - Familiar with different CI/DI tools, such as **Maven, Jenkins, Docker**. 
 - Familiar with multiple Test Frameworks like **Junit, Selenium, Mockito**.
 - Acquainted with the **data cleansing**.
@@ -103,7 +102,7 @@ contact:
 - Framework: Spring, Spring Cloud, Spring Boot, Spring MVC, AngularJS, Bootstrap, JUnit, Hadoop, Spark, MyBatis, Flask, Hibernate, Vue.js, Bootstrap, Element UI, JDBC
 - Databases: MySQL, Oracle, MongoDB, Redis, HBase
 - Message Queue: Kafka, RabbitMQ
-- Other: Maven, Docker, Linux, Git, Flume, Sqoop, Nginx, AWS, TensorFlow, Postman, Swagger, Kubernetes, Swagger, Jenkins, AWS EC2, Zookeeper
+- Other: Maven, Docker, Linux, Git, Flume, Sqoop, Nginx, AWS, TensorFlow, Postman, Swagger, Swagger, Jenkins, AWS EC2, Zookeeper
 
 
 ## <i class="fas fa-list"></i> Projects
