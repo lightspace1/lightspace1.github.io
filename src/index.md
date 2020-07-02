@@ -44,7 +44,7 @@ contact:
 <a href='/'>English</a>  -->
 <!-- | <a href='/zh-cn/'>简体中文</a> -->
 <!-- </center> -->
-<center><i class="fas fa-location-arrow"></i> Dallas, TX | <i class="fas fa-envelope fa-fw"></i> <a HREF="mailto:mingyao.pang@mydomain.com">mingyao.pang@gmail.com</a> | <i class="fas fa-phone-alt fa-fw"></i> <a HREF="tel:4694737704">(469)473-7704</a></center>
+<center><i class="fas fa-location-arrow"></i> Dallas, TX | <i class="fas fa-envelope fa-fw"></i> <a HREF="mailto:ddpmy@qq.com">ddpmy@qq.com</a> | <i class="fas fa-phone-alt fa-fw"></i> <a HREF="tel:4694737704">(469)473-7704</a></center>
 </grid>
 {% endraw %}
 
